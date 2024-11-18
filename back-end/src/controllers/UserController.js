@@ -59,6 +59,7 @@ const service = new Service;
             day: '2-digit',
             hour: '2-digit',
             minute: '2-digit',
+            timeZone: 'America/Sao_Paulo',
           }).format(createdAt)
         });
       } else {
