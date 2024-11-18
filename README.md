@@ -1,8 +1,12 @@
 # QuickLogin
 
+**🚀 Veja o projeto na [Vercel](https://quick-login.vercel.app) 🌐**
+
 Este projeto é um sistema de autenticação de usuários, com **cadastro** e **login**. Ele utiliza uma arquitetura **back-end** com `Node.js`, `Express` e `Sequelize` (conectado a um banco de dados MySQL) e um **front-end** desenvolvido com `React`, estilizado com `Styled Components`, e integrado ao back-end para operações de autenticação.
 
-**Atenção:** Este projeto é apenas para estudos e aprendizado. Não é recomendado para uso em produção sem melhorias de segurança e performance.
+**⚠️ Atenção:** Este projeto é apenas para estudos e aprendizado. Não é recomendado para uso em produção sem melhorias de segurança e performance.
+
+![Screenshot do projeto](./screenshot.png)
 
 ## Estrutura do Projeto
 
@@ -62,5 +66,5 @@ O projeto é dividido em duas pastas principais:
 ## Hospedagem
 
 - O **back-end** foi hospedado na **Render**.
-- O **banco de dados MySQL** está hospedado no **db4free.net**.
+- O **banco de dados MySQL** está hospedado no **[db4free.net](https://www.db4free.net/)**.
 - O **front-end** está hospedado na **Vercel** e pode ser acessado **[AQUI 🌐](https://quick-login.vercel.app)**.
