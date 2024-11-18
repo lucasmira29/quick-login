@@ -4,9 +4,11 @@
 
 Este projeto é um sistema de autenticação de usuários, com **cadastro** e **login**. Ele utiliza uma arquitetura **back-end** com `Node.js`, `Express` e `Sequelize` (conectado a um banco de dados MySQL) e um **front-end** desenvolvido com `React`, estilizado com `Styled Components`, e integrado ao back-end para operações de autenticação.
 
-**⚠️ Atenção:** Este projeto é apenas para estudos e aprendizado. Não é recomendado para uso em produção sem melhorias de segurança e performance.
+**⚠️ Atenção:** Este projeto é apenas para estudos e aprendizado.
 
-![Screenshot do projeto](./screenshot.png)
+<div align="center">
+  <img src="./screenshot.png" alt="Screenshot do projeto" width="250">
+</div>
 
 ## Estrutura do Projeto
 
