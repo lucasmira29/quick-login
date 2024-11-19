@@ -6,6 +6,8 @@ Este projeto é um sistema de autenticação de usuários, com **cadastro** e **
 
 **⚠️ Atenção:** Este projeto é apenas para estudos e aprendizado.
 
+**🚫 Importante:** Ao testar, **não insira informações pessoais** durante o cadastro ou login, para garantir a privacidade dos dados.
+
 <div align="center">
   <img src="./screenshot.png" alt="Screenshot do projeto" width="250">
 </div>
