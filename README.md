@@ -70,3 +70,7 @@ O projeto é dividido em duas pastas principais:
 - O **back-end** foi hospedado na **Render**.
 - O **banco de dados MySQL** está hospedado no **[db4free.net](https://www.db4free.net/)**.
 - O **front-end** está hospedado na **Vercel** e pode ser acessado **[AQUI 🌐](https://quick-login.vercel.app)**.
+
+---
+
+Projeto desenvolvido por Lucas de Mira.
