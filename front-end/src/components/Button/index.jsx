@@ -10,13 +10,14 @@ const ButtonStyled = styled.button`
   font-size: 1rem;
   background-color: var(--primary-color);
   color: var(--tertiary-color);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
   height: 45px;
   cursor: pointer;
   transition: scale 0.1s ease;
   margin-bottom: 2em;
 
   &:active {
-    scale: 1.1;
+    transform: translate(0em, 0.2em);
   }
 `;
 
