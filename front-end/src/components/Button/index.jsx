@@ -13,6 +13,7 @@ const ButtonStyled = styled.button`
   height: 45px;
   cursor: pointer;
   transition: scale 0.1s ease;
+  margin-bottom: 2em;
 
   &:active {
     scale: 1.1;

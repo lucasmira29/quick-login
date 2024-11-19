@@ -6,7 +6,7 @@ const StyledContainer = styled.main`
   justify-content: center;
   max-width: 1200px;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   margin: 0 auto;
   padding: 0 20px;
 

@@ -5,7 +5,7 @@ const StyledTitle = styled.h1`
   font-weight: 400;
   color: var(--tertiary-color);
   border-bottom: 4px solid var(--primary-color);
-  margin-bottom: 32px;
+  margin: 16px 0 32px 0;
 `;
 
 function Title({ children }) {
